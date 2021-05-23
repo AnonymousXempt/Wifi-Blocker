@@ -15,7 +15,9 @@ Xempt Wi-Fi Blocker is designed to destroy a computers internet connection. (The
  1. [Download](https://github.com/AnonymousXempt/Wifi-Blocker#Download)
  2. [Install-and-Run](https://github.com/AnonymousXempt/Wifi-Blocker#Install-and-Run)
  3. [Fix](https://github.com/AnonymousXempt/Wifi-Blocker#Fix)
- 4. [Video](https://github.com/AnonymousXempt/Wifi-Blocker#Video)
+ 4. [How-It-Works](https://github.com/AnonymousXempt/Wifi-Blocker#How-It-Works)
+ 5. [Video](https://github.com/AnonymousXempt/Wifi-Blocker#Video)
+
 
 # **Download**
 
@@ -31,6 +33,9 @@ Scroll to the top of the page and click on the green 'Code' button and 'Download
 
 # **Fix**
 To reverse the effects of **Xempt WiFi Blocker** you have to rename the network adapter in settings to a name other than **"Wi-Fi"**
+
+# **How It Works**
+This this program works by disguising itself as a windows service host. It is compiled with Administartor manifest so that it can perform Administartor tasks such as *Disabling Network adpater*
 
 # **Video**
 
