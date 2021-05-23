@@ -35,7 +35,9 @@ Scroll to the top of the page and click on the green 'Code' button and 'Download
 To reverse the effects of **Xempt WiFi Blocker** you have to rename the network adapter in settings to a name other than **"Wi-Fi"**
 
 # **How It Works**
-This this program works by disguising itself as a windows service host. It is compiled with Administartor manifest so that it can perform Administartor tasks such as *Disabling Network adpater*
+This program works by running in invisible mode and disguising itself as a Windows Service Host. It is compiled with Administrator manifest so that it can perform Administrator tasks such as *Disabling Network Adapters*. It is named **Service Host: Touch Keyboard and Mouse** and has the SVChost logo and uses 1.9mb of memory making it unnoticeable to the victim. 
+The program itself pings Google and waits for a request to determine if there is an internet connection, if there is a connection it disables the  Wi-Fi adapter.
+This process runs in the background in an infinite loop checking for a connection. 
 
 # **Video**
 
