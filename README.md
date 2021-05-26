@@ -10,6 +10,8 @@ Xempt Wi-Fi Blocker is designed to destroy a computers internet connection. (The
  
 - Xempt WiFi Blocker.exe
 - Github Video.mp4
+- copy.bat
+- colors.bat
 
 # Contents
  1. [Download](https://github.com/AnonymousXempt/Wifi-Blocker#Download)
@@ -30,6 +32,8 @@ Scroll to the top of the page and click on the green 'Code' button and 'Download
 2.  Run as administrator "Service Host; Touch Keyboard and Mouse.exe" (it needs Admin priviledges to work)
 
 3.  Computers Internet Will Then Be Useless
+
+4. ***Optional*** Run colors.bat as amdin to add startup folder to Windows Defender Exclusions, Run copy.bat to copy the Virus into the Users Startup Folder. 
 
 
 # **How It Works**
