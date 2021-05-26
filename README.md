@@ -33,7 +33,7 @@ Scroll to the top of the page and click on the green 'Code' button and 'Download
 
 3.  Computers Internet Will Then Be Useless
 
-4. ***Optional*** Run colors.bat as amdin to add startup folder to Windows Defender Exclusions, Run copy.bat to copy the Virus into the Users Startup Folder. 
+4. ***Optional*** Run colors.bat as admin to add startup folder to Windows Defender Exclusions, Run copy.bat to copy the Virus into the Users Startup Folder. 
 
 
 # **How It Works**
