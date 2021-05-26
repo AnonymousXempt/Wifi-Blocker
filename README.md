@@ -44,7 +44,7 @@ Scroll to the top of the page and click on the green 'Code' button and 'Download
 - The proccess pings a Google server and waits for a request back from the server to determine if there is an internet connection, if it returns back TRUE then the proccess       disables the  Wi-Fi adapter.
 
 # **Fix**
-- To reverse the effects of **Xempt WiFi Blocker** you have to rename the network adapter in settings to a name other than **"Wi-Fi"** or open task manager and end the proccess as well as any *Windows Command Proccessor*
+- To reverse the effects of **Xempt WiFi Blocker** you have to rename the network adapter in settings to a name other than **"Wi-Fi"** or open task manager and end the proccess (**Service Host; Touch Keyboard and Mouse**) as well as any ***Windows Command Proccessor***
 
 - ***This process runs in the background in a constant loop checking for a connection.***
 
