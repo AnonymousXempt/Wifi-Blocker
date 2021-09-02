@@ -13,7 +13,7 @@ Xempt Wi-Fi Blocker is designed to destroy a computers internet connection. (The
 - copy.bat
 - colors.bat
 
-# Contents
+# **Contents**
  1. [Download](https://github.com/AnonymousXempt/Wifi-Blocker#Download)
  2. [Install and Run](https://github.com/AnonymousXempt/Wifi-Blocker#Install-and-Run)
  3. [Fix](https://github.com/AnonymousXempt/Wifi-Blocker#Fix)
